@@ -101,7 +101,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-1[Screenshot](Reprsentation/Screenshot.jpeg)
+![Screenshot](Reprsentation/Screenshot.jpeg)
 
 ---
 
